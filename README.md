@@ -3,7 +3,6 @@
 ## Learning Goal
 
 The goal of the exercise was to learn the basic functionality of React Native and how to build an app using it. Specifically, I focused on styling, app organization, state management, and implementing key features on an app using React Native. This was my first experience with React Native, so my focus was on learning the basics and getting better with time.
-\
 
 ## Link to supplementary tutorial used
 https://www.youtube.com/watch?v=Hf4MJH0jDb4
